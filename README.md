@@ -42,9 +42,12 @@
 
 ## 📊 TryHackMe Статистика
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)  
-![TryHackMe Progress](https://raw.githubusercontent.com/Ivan-cell-create/ivan-cell-create/main/images/tryhackme-placeholder.png)
+🎯 **Профиль:** [tryhackme.com/p/YOUR_USERNAME](https://tryhackme.com/p/YOUR_USERNAME)  
 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)
+
+📈 **Прогресс** *(обновляется по мере прохождения)*  
+![TryHackMe Progress](https://raw.githubusercontent.com/Ivan-cell-create/ivan-cell-create/main/images/tryhackme-progress.png)
 > 🕵️ Пока тренируюсь, в будущем здесь появятся реальные взломанные машины 🚀  
 
 ---
