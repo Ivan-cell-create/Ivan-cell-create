@@ -60,10 +60,3 @@
 ### 📡 Связь
 - Telegram-канал: [t.me/gitCloneEvil](https://t.me/gitCloneEvil)
 
----
-
-<p align="center">
-  <a href="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17">
-    🚀 Как оформить профиль на GitHub креативно
-  </a>
-</p>
