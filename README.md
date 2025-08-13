@@ -3,6 +3,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hzYzMwdW00MG54NjBtd3ZnMXFzc2tteDdzMWZ6b2NhYWs2eTdqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="500"/>
 </p>
 
+<p align="center">
+<pre>
 ```text
 ╔════════════════════════════════════════════════════════════════════╗
 ║      ██████╗ ██████╗  █████╗ ██╗   ██╗███████╗                     ║
@@ -15,6 +17,8 @@
 ║   💻  I hack, therefore I am. 🔐                                  ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
+</pre>
+</p>
 
 
 <h1 align="center">👾 Pentest / Red Team Enthusiast</h1>
