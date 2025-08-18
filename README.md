@@ -5,6 +5,18 @@
 <h1 align="center">👨‍💻 | Программист → Пентестер</h1>
 <p align="center">Развиваю open-source проекты в области информационной безопасности</p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ivan-cell-create.Ivan-cell-create&left_color=gray&right_color=darkred" alt="visitors"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white"/>
+</p>
+
 ---
 
 ## 🧭 Оглавление
