@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Технологии и стек
+## Технологии и стек
 
 **Языки:**  
 `C#`, `Python`, `JavaScript`, `SQL`, `Bash`, `Shell`
@@ -57,7 +57,7 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ---
 
-## 📂 Проекты
+## Проекты
 
 | 📁 Репозиторий | 📄 Описание | 🛠️ Технологии |
 |---------------|-------------|----------------|
@@ -66,14 +66,14 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ---
 
-## 📊 GitHub статистика
+## GitHub статистика
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-cell-create&layout=compact&theme=dark)
 
 ---
 
-## 📬 Контакты
+## Контакты
 
 [@Мой Телеграмм канал](t.me/gitCloneEvil)
 
