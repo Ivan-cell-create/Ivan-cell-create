@@ -61,7 +61,7 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ---
 
-## Контакты
+## 📬 Контакты
 
 [@Мой Телеграмм канал](t.me/gitCloneEvil)
 
