@@ -50,7 +50,7 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 | 📁 Репозиторий | 📄 Описание | 🛠️ Технологии |
 |---------------|-------------|----------------|
-| [NetCat](https://github.com/Ivan-cell-create/NetCat) | Самописный аналог netcat для работы с TCP/UDP. | C# |
+| [NetCat](https://github.com/Ivan-cell-create/NetCat) | Самописный аналог netcat для работы с TCP/UDP. | Python |
 | [Python_Scripts](https://github.com/Ivan-cell-create/Python_Scripts) | Коллекция CLI-утилит для автоматизации. | Python |
 
 ---
