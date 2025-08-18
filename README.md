@@ -35,8 +35,11 @@
 HTML, CSS, JS (Vanilla) • Backend: Node.js
 
 **Security & Networking:**  
-Nmap, Netcat, Wireshark, Hydra ...
-Сетевой стек (TCP/IP, UDP и др.)
+- Сетевой стек: TCP/IP, UDP, ICMP, DNS, HTTP/HTTPS  
+- Системные утилиты: `Linux`, `Git`, `PowerShell`, `Kali Linux`
+- Инструменты пентестера:
+  - 🛠️ `Nmap`, `Netcat`, `Wireshark`, `Hydra`, `Masscan`
+  - 🐍 `sqlmap`, `Burp Suite`, `OWASP ZAP`
 
 **Tools:**  
 Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
@@ -49,8 +52,6 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 |---------------|-------------|----------------|
 | [NetCat](https://github.com/Ivan-cell-create/NetCat) | Самописный аналог netcat для работы с TCP/UDP. | C# |
 | [Python_Scripts](https://github.com/Ivan-cell-create/Python_Scripts) | Коллекция CLI-утилит для автоматизации. | Python |
-
-> 🔁 Остальные репозитории будут отображаться ниже автоматически
 
 ---
 
