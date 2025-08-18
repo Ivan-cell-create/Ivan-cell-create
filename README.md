@@ -1,96 +1,70 @@
-# 🛡️ Ivan-cell-create — Pentest & Red Team Enthusiast
+<!-- Баннер -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120" alt="Kali Linux Logo"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ivan-cell-create&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/Ivan-cell-create?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Ivan-cell-create?style=social)
-
----
-
-## 💡 Обо мне
-- 🔍 Энтузиаст Offensive Security, OSINT и Red Team Operations  
-- 🛠️ Ищу уязвимости, автоматизирую рутину, пишу собственные инструменты  
-- 📚 Постоянно тренируюсь на CTF, TryHackMe, HackTheBox  
-- 🎯 Цель — работать в команде, которая ломает системы, чтобы сделать их сильнее  
+<h1 align="center">👨‍💻 Иван | Программист → Пентестер</h1>
+<p align="center">Развиваю open-source проекты в области информационной безопасности</p>
 
 ---
 
-## 🚀 Мои проекты
-
-### 🔹 Netcat на Python
-**Описание:** самописная версия утилиты netcat с расширенными функциями (сокеты, прослушка портов, передача файлов)  
-**Стек:** Python (socket, threading)  
-**Ссылка:** [🔗 Репозиторий](https://github.com/Ivan-cell-create/NetCat)
-
-### 🔹 Полезные скрипты для пентеста
-**Описание:** набор Python-утилит, которые упрощают жизнь пентестеру (автоматический поиск субдоменов, парсинг данных, обработка логов)  
-**Стек:** Python (requests, BeautifulSoup, argparse)  
-**Ссылка:** [🔗 Репозиторий](https://github.com/Ivan-cell-create/Python_Scripts.git)
-
-### 🔹 Web Pentest Lab *(Запланировано)*
-**Описание:** уязвимое веб-приложение с SQLi, XSS, LFI и отчётами о найденных уязвимостях  
-**Стек:** Python (Flask), Docker, HTML/JS  
-
-### 🔹 OSINT Toolkit *(Запланировано)*
-**Описание:** инструменты для поиска информации, анализа метаданных, сборки профилей целей  
-**Стек:** Python, Maltego, Recon-ng  
-
-### 🔹 CTF Write-Ups *(В разработке)*
-**Описание:** решения задач с TryHackMe / HackTheBox с PoC и скриншотами  
-**Стек:** Markdown, Burp Suite, Wireshark  
+## 🧭 Оглавление
+- [Обо мне](#обо-мне)
+- [Технологии и стек](#технологии-и-стек)
+- [Проекты](#проекты)
+- [GitHub статистика](#github-статистика)
+- [Контакты](#контакты)
 
 ---
 
-## 📊 TryHackMe Статистика
+## 🧠 Обо мне
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)  
-![TryHackMe Progress](https://raw.githubusercontent.com/Ivan-cell-create/ivan-cell-create/main/images/tryhackme-placeholder.png)
-
-## 📈 GitHub Активность
-
-![GitHub streak](https://streak-stats.demolab.com?user=Ivan-cell-create&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark&count_private=true)
+- 🎓 По специальности — программист
+- 🛡️ Путь: Пентестер → Red Team
+- ⚙️ Люблю низкоуровневые инструменты, системное и сетевое программирование
+- 🧪 Разрабатываю кастомные утилиты для анализа и автоматизации
 
 ---
 
-## 🛠 Навыки
-- **Pentest:** Web App Testing, OWASP Top 10, Social Engineering  
-- **OSINT:** Recon-ng, Maltego, Google Dorking  
-- **Инструменты:** Kali Linux, Parrot OS, Burp Suite, Nmap, Metasploit, Wireshark  
-- **Программирование:** Python, Bash, JavaScript, C# (базово)  
-- **Администрирование:** Linux, Windows  
+## 🛠️ Технологии и стек
+
+**Языки:**  
+`C#`, `Python`, `JavaScript`, `SQL`, `Bash`, `Shell`
+
+**Web:**  
+HTML, CSS, JS (Vanilla) • Backend: Node.js, Express
+
+**Security & Networking:**  
+Nmap, Netcat, Wireshark, Hydra, Сетевой стек (TCP/IP, UDP и др.)
+
+**Tools:**  
+Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ---
 
-## 📜 Сертификаты и курсы
-- Stepik — «Профессия: Белый Хакер»  
-- Introduction to OSINT, Penetration Testing, Threat Hunting  
-- Dark Web Operations, Network Analysis  
+## 📂 Проекты
+
+| 📁 Репозиторий | 📄 Описание | 🛠️ Технологии |
+|---------------|-------------|----------------|
+| [NetCat](https://github.com/Ivan-cell-create/NetCat) | Самописный аналог netcat для работы с TCP/UDP. | C# |
+| [Python_Scripts](https://github.com/Ivan-cell-create/Python_Scripts) | Коллекция CLI-утилит для автоматизации. | Python |
+
+> 🔁 Остальные репозитории будут отображаться ниже автоматически
 
 ---
 
-## 📫 Контакты
-- Telegram: [t.me/gitCloneEvil](https://t.me/gitCloneEvil)  
-- GitHub: [Ivan-cell-create](https://github.com/Ivan-cell-create)
+## 📊 GitHub статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-cell-create&layout=compact&theme=dark)
 
 ---
 
-💬 *Постепенно этот профиль превратится в полноценное портфолио пентестера с рабочими инструментами, отчётами и сценариями атак.*
+## 📬 Контакты
 
+- Telegram: [@твойник](https://t.me/твойник)
+- Email: `твоя@почта.com` *(по желанию)*
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 🎯 Открыт к сотрудничеству, контрибьюциям и новым идеям
