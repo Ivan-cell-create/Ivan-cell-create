@@ -1,4 +1,3 @@
-<!-- Баннер -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120" alt="Kali Linux Logo"/>
 </p>
@@ -62,7 +61,7 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ---
 
-## 📬 Контакты
+## Контакты
 
 [@Мой Телеграмм канал](t.me/gitCloneEvil)
 
