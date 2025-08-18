@@ -32,10 +32,11 @@
 `C#`, `Python`, `JavaScript`, `SQL`, `Bash`, `Shell`
 
 **Web:**  
-HTML, CSS, JS (Vanilla) • Backend: Node.js, Express
+HTML, CSS, JS (Vanilla) • Backend: Node.js
 
 **Security & Networking:**  
-Nmap, Netcat, Wireshark, Hydra, Сетевой стек (TCP/IP, UDP и др.)
+Nmap, Netcat, Wireshark, Hydra ...
+Сетевой стек (TCP/IP, UDP и др.)
 
 **Tools:**  
 Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
@@ -62,8 +63,7 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ## 📬 Контакты
 
-- Telegram: [@твойник](https://t.me/твойник)
-- Email: `твоя@почта.com` *(по желанию)*
+- Telegram: [@тгк](t.me/gitCloneEvil)
 
 ---
 
