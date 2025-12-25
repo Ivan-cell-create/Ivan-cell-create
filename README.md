@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120" alt="Kali Linux Logo"/>
 </p>
 
-<h1 align="center">👨‍💻 | Программист - Пентестер</h1>
+<h1 align="center">Pentester/Red Team</h1>
 <p align="center">Развиваю open-source проекты в области информационной безопасности</p>
 
 <p align="center">
