@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white"/>
 </p>
 
