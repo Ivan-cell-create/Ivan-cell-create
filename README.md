@@ -52,5 +52,3 @@ automation • regex • subprocess
 **TryHackMe:** [dodrios](https://tryhackme.com/p/dodrios)
 
 ---
-
-<sub>**Disclaimer:** Все инструменты предназначены для легального тестирования с письменного разрешения. Автор не несет ответственности за неправомерное использование.</sub>
