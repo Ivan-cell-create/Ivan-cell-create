@@ -1,77 +1,103 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120" alt="Kali Linux Logo"/>
-</p>
+# Pentester / Red Team Operator
 
-<h1 align="center">Pentester/Red Team</h1>
-<p align="center">Развиваю open-source проекты в области информационной безопасности</p>
+Специализация: разработка open-source инструментов для offensive security и автоматизации процессов пентестинга.
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ivan-cell-create.Ivan-cell-create&left_color=gray&right_color=darkred" alt="visitors"/>
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ivan-cell-create.Ivan-cell-create&left_color=gray&right_color=darkred)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white"/>
-</p>
+![OS](https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 
 ---
 
-## Оглавление
-- [Обо мне](#обо-мне)
-- [Технологии и стек](#технологии-и-стек)
-- [Проекты](#проекты)
-- [Статистика](#статистика)
+## Специализация
+
+- Penetration Testing / Red Team Operations
+- Разработка кастомных эксплойтов и инструментов для offensive security
+- Низкоуровневое системное и сетевое программирование
+- Автоматизация процессов тестирования на проникновение
 
 ---
 
-## Обо мне
+## Технический стек
 
-- Pentest/Red Team
-- Низкоуровневые инструменты, системное и сетевое программирование
-- Разработка кастомных утилиты для анализа и автоматизации
+### Языки программирования
+`Python` • `JavaScript` • `SQL` • `Bash` • `Shell` • `PowerShell`
+
+### Web технологии
+- Frontend: HTML, CSS, Vanilla JavaScript
+- Backend: Node.js
+- Security: OWASP Top 10, Web Application Security
+
+### Сетевые протоколы и технологии
+TCP/IP • UDP • ICMP • DNS • HTTP/HTTPS • SSL/TLS • SSH
+
+### Инструменты пентестинга
+
+**Reconnaissance & Scanning:**
+- Nmap, Masscan, Nikto, Gobuster, Amass
+- Shodan, Censys, theHarvester
+
+**Exploitation & Post-Exploitation:**
+- Metasploit Framework, Cobalt Strike simulation
+- Netcat, Socat, PowerShell Empire
+- Custom Python/Bash exploitation scripts
+
+**Web Application Testing:**
+- Burp Suite Professional, OWASP ZAP
+- sqlmap, XSStrike, Commix
+- Custom fuzzing tools
+
+**Network Analysis:**
+- Wireshark, tcpdump, Bettercap
+- Responder, Impacket suite
+
+**Password Attacks:**
+- Hydra, John the Ripper, Hashcat
+- CrackMapExec, Medusa
+
+**Privilege Escalation:**
+- LinPEAS, WinPEAS
+- GTFOBins, LOLBAS
+
+### Операционные системы
+Kali Linux • Parrot Security • Ubuntu Server • Windows Server
+
+### Development Tools
+Git • GitHub • VS Code • Vim • tmux • Docker
 
 ---
 
-## Технологии и стек
+## Репозитории
 
-**Языки:**  
-`Python`, `JavaScript`, `SQL`, `Bash`, `Shell`
+### Сетевые утилиты
 
-**Web:**  
-HTML, CSS, JS (Vanilla) • Backend: Node.js
+**[NetCat](https://github.com/Ivan-cell-create/NetCat)**  
+Полнофункциональная реализация netcat на Python с расширенными возможностями для TCP/UDP коммуникации, reverse/bind shells и port scanning.
 
-**Security & Networking:**  
-- Сетевой стек: TCP/IP, UDP, ICMP, DNS, HTTP/HTTPS  
-- Системные утилиты: `Linux`, `Git`, `PowerShell`, `Kali Linux`
-- Инструменты пентестера:
-  - `Nmap`, `Netcat`, `Wireshark`, `Hydra`, `Masscan`
-  - `sqlmap`, `Burp Suite`, `OWASP ZAP`
-
-**Tools:**  
-Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
+**Технологии:** Python, socket programming, multithreading
 
 ---
 
-## Проекты
+**[Python_Scripts](https://github.com/Ivan-cell-create/Python_Scripts)**  
+Набор CLI-утилит для автоматизации задач пентестинга: парсеры логов, генераторы payload, скрипты для post-exploitation.
 
-| 📁 Репозиторий | 📄 Описание | 🛠️ Технологии |
-|---------------|-------------|----------------|
-| [NetCat](https://github.com/Ivan-cell-create/NetCat) | Самописный аналог netcat для работы с TCP/UDP. | Python |
-| [Python_Scripts](https://github.com/Ivan-cell-create/Python_Scripts) | Коллекция CLI-утилит для автоматизации. | Python |
+**Технологии:** Python, argparse, subprocess, regex
 
 ---
 
-## GitHub/TryHackMe statistics
+## Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ivan-cell-create&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ivan-cell-create&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+### TryHackMe Profile
 
 <p align="center">
   <a href="https://tryhackme.com/p/dodrios">
@@ -79,4 +105,6 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
   </a>
 </p>
 
---- 
+---
+
+**Disclaimer:** Все инструменты и методики предназначены исключительно для легального тестирования систем с письменного разрешения владельца. Автор не несет ответственности за неправомерное использование представленных материалов.
