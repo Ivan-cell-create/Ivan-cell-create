@@ -66,8 +66,6 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ## GitHub/TryHackMe statistics
 
-## GitHub / TryHackMe statistics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
