@@ -49,12 +49,7 @@ automation • regex • subprocess
 
 ![](https://streak-stats.demolab.com?user=Ivan-cell-create&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e)
 
-<p align="center">
-  <a href="https://tryhackme.com/p/dodrios">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/dodrios.png" alt="TryHackMe"/>
-  </a>
-</p>
-
+TryHackMe: dodrios
 ---
 
 <sub>**Disclaimer:** Все инструменты предназначены для легального тестирования с письменного разрешения. Автор не несет ответственности за неправомерное использование.</sub>
