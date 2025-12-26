@@ -66,5 +66,15 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 
 ## GitHub/TryHackMe statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-cell-create&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/dodrios">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/dodrios.png" alt="TryHackMe Badge"/>
+  </a>
+</p>
 
 --- 
