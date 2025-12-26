@@ -1,110 +1,60 @@
 # Pentester / Red Team Operator
 
-Специализация: разработка open-source инструментов для offensive security и автоматизации процессов пентестинга.
+> Разработка open-source инструментов для offensive security и автоматизация пентестинга
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ivan-cell-create.Ivan-cell-create&left_color=gray&right_color=darkred)
-
-![OS](https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-
----
-
-## Специализация
-
-- Penetration Testing / Red Team Operations
-- Разработка кастомных эксплойтов и инструментов для offensive security
-- Низкоуровневое системное и сетевое программирование
-- Автоматизация процессов тестирования на проникновение
+```ascii
+[~]$ whoami
+pentester@offensive-sec:~# specialization --list
+├─ Penetration Testing & Red Team Operations
+├─ Custom Exploit Development
+├─ Network & System Programming
+└─ Security Automation
+```
 
 ---
 
-## Технический стек
+## Stack
 
-### Языки программирования
-`Python` • `JavaScript` • `SQL` • `Bash` • `Shell` • `PowerShell`
+**Languages:** Python • JavaScript • Bash • PowerShell • SQL
 
-### Web технологии
-- Frontend: HTML, CSS, Vanilla JavaScript
-- Backend: Node.js
-- Security: OWASP Top 10, Web Application Security
+**Core Skills:**
+- Web Application Security (OWASP Top 10)
+- Network Protocols: TCP/IP, DNS, HTTP/HTTPS, SSL/TLS
+- Reverse/Bind Shells & Post-Exploitation
+- Custom Tooling & Automation
 
-### Сетевые протоколы и технологии
-TCP/IP • UDP • ICMP • DNS • HTTP/HTTPS • SSL/TLS • SSH
-
-### Инструменты пентестинга
-
-**Reconnaissance & Scanning:**
-- Nmap, Masscan, Nikto, Gobuster, Amass
-- Shodan, Censys, theHarvester
-
-**Exploitation & Post-Exploitation:**
-- Metasploit Framework, Cobalt Strike simulation
-- Netcat, Socat, PowerShell Empire
-- Custom Python/Bash exploitation scripts
-
-**Web Application Testing:**
-- Burp Suite Professional, OWASP ZAP
-- sqlmap, XSStrike, Commix
-- Custom fuzzing tools
-
-**Network Analysis:**
-- Wireshark, tcpdump, Bettercap
-- Responder, Impacket suite
-
-**Password Attacks:**
-- Hydra, John the Ripper, Hashcat
-- CrackMapExec, Medusa
-
-**Privilege Escalation:**
-- LinPEAS, WinPEAS
-- GTFOBins, LOLBAS
-
-### Операционные системы
-Kali Linux • Parrot Security • Ubuntu Server • Windows Server
-
-### Development Tools
-Git • GitHub • VS Code • Vim • tmux • Docker
+**Environment:** Kali Linux • VS Code • Git
 
 ---
 
-## Репозитории
+## Projects
 
-### Сетевые утилиты
+### [NetCat](https://github.com/Ivan-cell-create/NetCat)
+Полнофункциональная Python-реализация netcat: TCP/UDP, reverse/bind shells, port scanning
+```
+socket programming • multithreading • network analysis
+```
 
-**[NetCat](https://github.com/Ivan-cell-create/NetCat)**  
-Полнофункциональная реализация netcat на Python с расширенными возможностями для TCP/UDP коммуникации, reverse/bind shells и port scanning.
-
-**Технологии:** Python, socket programming, multithreading
-
----
-
-**[Python_Scripts](https://github.com/Ivan-cell-create/Python_Scripts)**  
-Набор CLI-утилит для автоматизации задач пентестинга: парсеры логов, генераторы payload, скрипты для post-exploitation.
-
-**Технологии:** Python, argparse, subprocess, regex
+### [Python_Scripts](https://github.com/Ivan-cell-create/Python_Scripts)
+CLI-утилиты для автоматизации: парсеры логов, payload генераторы, post-exploitation scripts
+```
+automation • regex • subprocess
+```
 
 ---
 
-## Статистика
+## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ivan-cell-create&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-### TryHackMe Profile
+![](https://streak-stats.demolab.com?user=Ivan-cell-create&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e)
 
 <p align="center">
   <a href="https://tryhackme.com/p/dodrios">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/dodrios.png" alt="TryHackMe Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/dodrios.png" alt="TryHackMe"/>
   </a>
 </p>
 
 ---
 
-**Disclaimer:** Все инструменты и методики предназначены исключительно для легального тестирования систем с письменного разрешения владельца. Автор не несет ответственности за неправомерное использование представленных материалов.
+<sub>**Disclaimer:** Все инструменты предназначены для легального тестирования с письменного разрешения. Автор не несет ответственности за неправомерное использование.</sub>
