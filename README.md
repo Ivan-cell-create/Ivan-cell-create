@@ -30,7 +30,7 @@
 
 ## Обо мне
 
-- Путь: Pentest/Red Team
+- Pentest/Red Team
 - Низкоуровневые инструменты, системное и сетевое программирование
 - Разработка кастомных утилиты для анализа и автоматизации
 
@@ -39,7 +39,7 @@
 ## Технологии и стек
 
 **Языки:**  
-`C#`, `Python`, `JavaScript`, `SQL`, `Bash`, `Shell`
+`Python`, `JavaScript`, `SQL`, `Bash`, `Shell`
 
 **Web:**  
 HTML, CSS, JS (Vanilla) • Backend: Node.js
@@ -48,8 +48,8 @@ HTML, CSS, JS (Vanilla) • Backend: Node.js
 - Сетевой стек: TCP/IP, UDP, ICMP, DNS, HTTP/HTTPS  
 - Системные утилиты: `Linux`, `Git`, `PowerShell`, `Kali Linux`
 - Инструменты пентестера:
-  - 🛠️ `Nmap`, `Netcat`, `Wireshark`, `Hydra`, `Masscan`
-  - 🐍 `sqlmap`, `Burp Suite`, `OWASP ZAP`
+  - `Nmap`, `Netcat`, `Wireshark`, `Hydra`, `Masscan`
+  - `sqlmap`, `Burp Suite`, `OWASP ZAP`
 
 **Tools:**  
 Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
@@ -70,13 +70,4 @@ Linux, Git, GitHub, VS Code, Kali Linux, PowerShell
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivan-cell-create&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-cell-create&layout=compact&theme=dark)
 
----
-
-## Контакты
-
-Telegram (tgk): [@gitCloneEvil](https://t.me/gitCloneEvil)  
-Telegram (tg): [@rmrfevil](https://t.me/rmrfevil)
-
----
-
-> 🎯 Открыт к сотрудничеству, контрибьюциям и новым идеям
+--- 
